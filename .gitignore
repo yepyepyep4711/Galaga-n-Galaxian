@@ -12,3 +12,7 @@ build/
 archive/
 __pycache__/
 *.pyc
+dumps/
+test-roms/
+screenshots/
+docs/
